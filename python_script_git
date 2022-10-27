@@ -1,4 +1,7 @@
 
 def hello():
     print("Hello World, I am Brendan Conners")
+
+def goodbye():
+    print("goodbye World, Brendan Conners signing off")
     
