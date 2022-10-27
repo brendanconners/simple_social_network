@@ -1,2 +1,7 @@
 def goodbye():
     print("Goodybe, see you later")
+
+def name_input():
+    name = input("What is your name? ")
+    returned_name = f"your name is {name}"
+    return returned_name
