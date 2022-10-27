@@ -1,10 +1,14 @@
+"""This script is for the git and GitHib exercise, its called Simple social networks
+because thats what the video had as I was following it 
+"""
 
 def hello():
     print("Hello World, I am Brendan Conners")
 
 def goodbye():
-    print("goodbye World, Brendan Conners signing off")
+    print ("Goodbye World, Brendan Conners signing ")
+
+def namefunction ():
+    name = input("What is your name? ")
+    username = f" your name is {name}"
     
-def input_function():
-    name = input("What is your name?)
-    print (f" {name} is your name")
